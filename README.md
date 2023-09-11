@@ -5,5 +5,8 @@ Servidor no FireBase
 
 
 ### Projeto
-[Calculadora-Bird-Chupim](https://calculadora-chupim-basic.web.app/)
+<p>Link do projeto:</p> 
+
+[Calculadora](https://calculadora.fly.dev/)
+
 
